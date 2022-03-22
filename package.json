@@ -1,0 +1,8 @@
+{
+  "name": "license-generator",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
+}
